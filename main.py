@@ -57,8 +57,8 @@ class MainWidget(Widget):
     pass
 
 
-class TheLabApp(App):
+class App(App):
     pass
 
 
-TheLabApp().run()
+App().run()
